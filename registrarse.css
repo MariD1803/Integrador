@@ -133,6 +133,7 @@ body {
 
 main {
     background: url(./img/fondoregis.png);   
+    padding-block-start: 100px;
    
 }
 
