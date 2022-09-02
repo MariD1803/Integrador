@@ -699,6 +699,10 @@ footer h3 {
 
     /*Footer*/
 
+    footer h3 {
+        font-size: var(--small);
+    }
+
 
     .redes_ico {
         gap: 80px;

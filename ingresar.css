@@ -270,6 +270,12 @@ footer h3 {
     .linea_sub {
         width: 30%;
     }
+
+    /*Footer*/
+
+    footer h3 {
+        font-size: var(--small);
+    }
 }
 
 
